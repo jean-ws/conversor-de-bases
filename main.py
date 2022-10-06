@@ -1,4 +1,4 @@
-from binary_to_ import *
+from binary_to import *
 from dec_to import *
 
 teste = binary_to_decimal('100')
